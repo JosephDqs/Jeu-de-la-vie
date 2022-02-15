@@ -21,17 +21,4 @@ def RechercheR(x,y,Listex,Listey): # Cette fonction va servir pour les clics
       return(i) #si la boucle s'est arrété avant de faire le tour des listes on renvoit 1
     else :
       return (-1)#et vis versa
-    
-#Listex =[]
-#Listey =[]
-
-#Listex =[0,4,0,4,2,1]
-#Listey =[0,0,4,4,3,2]
-
-#print (Listex)
-#print (Listey)
-#T=int(input("T = ",))
-#X=int(input("x = ",))
-#Y=int(input("y = ",))
-#g = Recherche(X,Y,Listex,Listey)
-#print (g)
+  
